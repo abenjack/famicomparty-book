@@ -1,4 +1,4 @@
-# Famicom Party: Making NES Games in Assembly 2
+# Famicom Party: Making NES Games in Assembly
 
 This is the source code repo for the book "Famicom Party: Making NES Games in Assembly",
 available at [https://book.famicom.party](https://book.famicom.party).
